@@ -12,3 +12,5 @@ let hex = "Ox"+ n.toString(16);
 let b = 123456.789;
 
 console.log(parseFloat("3.14 meters"));
+
+// comments added
